@@ -118,8 +118,11 @@ async function fetchCommits(repo) {
       date: commit.commit.author?.date || commit.commit.committer?.date,
       url: commit.html_url,
     }));
-  } catch {
+  } catch (error) {
     // Empty repos (no commits yet) return 409 Conflict - treat as "no activity"
+    if (error.status !== 409) {
+      console.warn(`commits fetch failed for ${repo.owner}/${repo.name}:`, error.status, error.message);
+    }
     return [];
   }
 }
@@ -151,12 +154,11 @@ async function fetchIssues(repo) {
         date: issue.created_at,
         url: issue.html_url,
       }));
-  } catch {
+  } catch (error) {
+    console.warn(`issues fetch failed for ${repo.owner}/${repo.name}:`, error.status, error.message);
     return [];
   }
 }
-
-/** Fetch recent pull requests for a repo. Returns [] if none exist. */
 async function fetchPullRequests(repo) {
   try {
     const { data } = await octokit.rest.pulls.list({
@@ -176,7 +178,8 @@ async function fetchPullRequests(repo) {
       date: pr.created_at,
       url: pr.html_url,
     }));
-  } catch {
+  } catch (error) {
+    console.warn(`pulls fetch failed for ${repo.owner}/${repo.name}:`, error.status, error.message);
     return [];
   }
 }
@@ -198,7 +201,8 @@ async function fetchReleases(repo) {
       date: release.published_at || release.created_at,
       url: release.html_url,
     }));
-  } catch {
+  } catch (error) {
+    console.warn(`releases fetch failed for ${repo.owner}/${repo.name}:`, error.status, error.message);
     return [];
   }
 }
@@ -388,6 +392,7 @@ async function main() {
   console.log(`Fetching repositories for org: ${ORG}`);
   const repos = await fetchOrgRepos();
   console.log(`Found ${repos.length} repo(s) to scan (excluding .github).`);
+  console.log("Repos:", repos.map((r) => `${r.owner}/${r.name}`).join(", "));
 
   if (repos.length === 0) {
     await updateReadme("Everyone is suspiciously quiet right now...");
