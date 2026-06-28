@@ -5,7 +5,7 @@ const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
 });
 
-const ORG = "YOUR_ORG_NAME";
+const ORG = "anarnapr";
 
 async function run() {
 
