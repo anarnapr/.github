@@ -8,37 +8,45 @@ on:
 permissions:
   contents: write
 
+# Prevent two runs from trying to push at the same time
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 24
 
-      - run: npm install @octokit/rest
+      - name: Install dependencies
+        run: npm install @octokit/rest
 
-      - run: node scripts/update-readme.js
+      - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-readme.js
 
-      - name: Commit README
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Pull latest changes to avoid push conflicts
-          git pull --rebase origin main
-
-          # Only stage the README
+          # Stage only the README
           git add profile/README.md
 
-          # Commit only if README changed
-          git diff --cached --quiet || git commit -m "Update activity"
+          # Commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
+          git commit -m "Update README activity"
           git push
