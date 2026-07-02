@@ -5,15 +5,15 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Something's not quite right in `socials-instagram`, apparently.](https://github.com/anarnapr/socials-instagram/issues/9)
-* [Something's not quite right in `socials-instagram`, apparently.](https://github.com/anarnapr/socials-instagram/issues/8)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/caf3644d272ff269fddec82d4660d5ecbeae816e)
-* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-instagram/pull/7)
+* [Something's not quite right in `socials-crm`, apparently.](https://github.com/anarnapr/socials-crm/issues/2)
+* [ArjunMal1311 found something suspicious in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/10)
+* [ArjunMal1311 found something suspicious in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/9)
+* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/8)
+* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/caf3644d272ff269fddec82d4660d5ecbeae816e)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-instagram/pull/7)
 * [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/c499220c50e30cc4036f10fdc6771dd9006abbbd)
-* [Something's not quite right in `socials-instagram`, apparently.](https://github.com/anarnapr/socials-instagram/issues/6)
-* [Another commit sneaks into `socials-crm`.](https://github.com/anarnapr/socials-crm/commit/ff3fc7e71755200a0ccd953aba37c75353875d4c)
-* [prabhu-01 thinks this code is ready.](https://github.com/anarnapr/socials-crm/pull/1)
-* [Someone trusted prabhu-01 with `socials-crm` again.](https://github.com/anarnapr/socials-crm/commit/93e4bbabb59a1d315e36cedff0837ade76c93581)
-* [Someone trusted prabhu-01 with `socials-crm` again.](https://github.com/anarnapr/socials-crm/commit/a0d0fdaf1f9c85d6345bd12637164afd8b9fd4c4)
+* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/6)
+* [prabhu-01 has been cooking in `socials-crm`.](https://github.com/anarnapr/socials-crm/commit/ff3fc7e71755200a0ccd953aba37c75353875d4c)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-crm/pull/1)
 
 <!--END_ACTIVITY-->
