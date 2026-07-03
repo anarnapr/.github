@@ -5,15 +5,15 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [ArjunMal1311 has questions about `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/13)
-* [Another mystery appeared in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/12)
-* [ArjunMal1311 is proposing changes to `socials-instagram`.](https://github.com/anarnapr/socials-instagram/pull/11)
-* [A new quest has been added.](https://github.com/anarnapr/socials-crm/issues/3)
-* [Something's not quite right in `socials-crm`, apparently.](https://github.com/anarnapr/socials-crm/issues/2)
-* [Another mystery appeared in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/10)
-* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/9)
-* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-instagram/pull/7)
-* [Fresh code just landed in `socials-crm`.](https://github.com/anarnapr/socials-crm/commit/ff3fc7e71755200a0ccd953aba37c75353875d4c)
-* [A pull request quietly enters `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/1)
+* [Another mystery appeared in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/13)
+* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/12)
+* [Another commit sneaks into `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/89586cf4fa57b424414b88cf420f65ff51cf2f83)
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-instagram/pull/11)
+* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/9b7333a71538cf098fd812af9df668c576f321d3)
+* [Another mystery appeared in `socials-crm`.](https://github.com/anarnapr/socials-crm/issues/3)
+* [ArjunMal1311 has questions about `socials-crm`.](https://github.com/anarnapr/socials-crm/issues/2)
+* [Something's not quite right in `socials-instagram`, apparently.](https://github.com/anarnapr/socials-instagram/issues/10)
+* [ArjunMal1311 found something suspicious in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/9)
+* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/caf3644d272ff269fddec82d4660d5ecbeae816e)
 
 <!--END_ACTIVITY-->
