@@ -5,15 +5,15 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Another commit sneaks into `socials-x`.](https://github.com/anarnapr/socials-x/commit/9c85da19c7987a4d11b0b40fb3c4f61d21b869ae)
-* [Another mystery appeared in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/18)
-* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/17)
-* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/fbbe94475b5d8fb2dd44fdde4dc5d9002c40cbcb)
+* [ArjunMal1311 pushed something into `socials-x`. Probably fine.](https://github.com/anarnapr/socials-x/commit/0b6870b1dcdd392ad5d3523f5a2764e99e9a58bb)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-x/pull/2)
+* [ArjunMal1311 has been cooking in `socials-x`.](https://github.com/anarnapr/socials-x/commit/d4c2627a86f979648c16f11fcae158365ebbfbfb)
+* [ArjunMal1311 found something suspicious in `socials-x`.](https://github.com/anarnapr/socials-x/issues/1)
+* [ArjunMal1311 has been cooking in `socials-x`.](https://github.com/anarnapr/socials-x/commit/9c85da19c7987a4d11b0b40fb3c4f61d21b869ae)
+* [ArjunMal1311 found something suspicious in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/18)
+* [ArjunMal1311 has questions about `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/17)
+* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/fbbe94475b5d8fb2dd44fdde4dc5d9002c40cbcb)
 * [A pull request quietly enters `socials-instagram`.](https://github.com/anarnapr/socials-instagram/pull/16)
-* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/145251cee4f0a0fa3128b63ed46fe1c49e37bed6)
-* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/30a2dac2bb93d2e4c07ac8434bc00f2857c1673e)
-* [ArjunMal1311 is proposing changes to `socials-instagram`.](https://github.com/anarnapr/socials-instagram/pull/15)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/189e17a1433746f320ef0e17f0fcc6ee4d931fbe)
-* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/f1e27cc2c161d8b183323c2dcad4ab3cb1766b77)
+* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/145251cee4f0a0fa3128b63ed46fe1c49e37bed6)
 
 <!--END_ACTIVITY-->
