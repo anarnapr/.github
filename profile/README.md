@@ -5,15 +5,15 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Fresh code just landed in `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/fc092e96541dd050f1b9802484b6d1dccd463834)
-* [prabhu-01 pushed something into `socials-cold`. Probably fine.](https://github.com/anarnapr/socials-cold/commit/3e114c4fe4afd8a86460c9406e8886ee79f4dd74)
-* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-x/pull/5)
-* [Another commit sneaks into `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/dbc349164d28d9911e9419d44242466652e879ef)
-* [A new quest has been added.](https://github.com/anarnapr/socials-x/issues/4)
-* [prabhu-01 has been cooking in `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/ea895e57d0d99425c3d28a1504ebf65b41070a7a)
-* [prabhu-01 pushed something into `socials-cold`. Probably fine.](https://github.com/anarnapr/socials-cold/commit/14f252b2021b9786e1534110cbeb4b9753f0a5fb)
-* [ArjunMal1311 pushed something into `ai-gateway`. Probably fine.](https://github.com/anarnapr/ai-gateway/commit/439204cdabe3eda6a226b77ab28ab7dc4cc92555)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-x/pull/3)
-* [ArjunMal1311 has questions about `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/21)
+* [Fresh code just landed in `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/da7ac45835c3c1772df751253f68d285e6494d17)
+* [Someone trusted prabhu-01 with `socials-cold` again.](https://github.com/anarnapr/socials-cold/commit/570d46298e3bb3510217ca0b34e905bf86782325)
+* [prabhu-01 has been cooking in `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/b3f4d808b67c4a8dbd4acb49402172c4458163af)
+* [Another commit sneaks into `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/ce17f87f2e29de1dd11d11a13f03a85031e817f3)
+* [prabhu-01 pushed something into `socials-cold`. Probably fine.](https://github.com/anarnapr/socials-cold/commit/3954b49059092c1afcc1a02b5522a58655b41e50)
+* [ArjunMal1311 found something suspicious in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/22)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-x/pull/5)
+* [ArjunMal1311 has questions about `socials-x`.](https://github.com/anarnapr/socials-x/issues/4)
+* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/439204cdabe3eda6a226b77ab28ab7dc4cc92555)
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-x/pull/3)
 
 <!--END_ACTIVITY-->
