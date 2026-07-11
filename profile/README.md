@@ -5,15 +5,15 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Another commit sneaks into `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/ea895e57d0d99425c3d28a1504ebf65b41070a7a)
-* [Someone trusted prabhu-01 with `socials-cold` again.](https://github.com/anarnapr/socials-cold/commit/14f252b2021b9786e1534110cbeb4b9753f0a5fb)
-* [prabhu-01 pushed something into `socials-cold`. Probably fine.](https://github.com/anarnapr/socials-cold/commit/ecc70a1c07bfdf0f5a116e3cc983822f1ef6b274)
-* [Someone trusted prabhu-01 with `socials-cold` again.](https://github.com/anarnapr/socials-cold/commit/ab2ec1e4d92f7eb7a0b9f17c014f86c52aa26f71)
-* [Another commit sneaks into `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/06cc59d455cc094e345ba5cd20dcff5c03f22508)
-* [ArjunMal1311 has been cooking in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/439204cdabe3eda6a226b77ab28ab7dc4cc92555)
-* [ArjunMal1311 is proposing changes to `socials-x`.](https://github.com/anarnapr/socials-x/pull/3)
-* [Another mystery appeared in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/21)
+* [prabhu-01 has been cooking in `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/ea895e57d0d99425c3d28a1504ebf65b41070a7a)
+* [prabhu-01 pushed something into `socials-cold`. Probably fine.](https://github.com/anarnapr/socials-cold/commit/14f252b2021b9786e1534110cbeb4b9753f0a5fb)
+* [Another commit sneaks into `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/ecc70a1c07bfdf0f5a116e3cc983822f1ef6b274)
+* [prabhu-01 pushed something into `socials-cold`. Probably fine.](https://github.com/anarnapr/socials-cold/commit/ab2ec1e4d92f7eb7a0b9f17c014f86c52aa26f71)
+* [prabhu-01 has been cooking in `socials-cold`.](https://github.com/anarnapr/socials-cold/commit/06cc59d455cc094e345ba5cd20dcff5c03f22508)
+* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/439204cdabe3eda6a226b77ab28ab7dc4cc92555)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-x/pull/3)
+* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/21)
 * [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/1adfe46b43eda64064d5fa4b9aaf26da16df7913)
-* [prabhu-01 pushed something into `ai-gateway`. Probably fine.](https://github.com/anarnapr/ai-gateway/commit/edd701b68d0ad7ce187ea90fc8acdabe0d4f94f7)
+* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/edd701b68d0ad7ce187ea90fc8acdabe0d4f94f7)
 
 <!--END_ACTIVITY-->
