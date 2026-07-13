@@ -17,3 +17,6 @@ writing code, building things
 * [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/d87dc528065c41e22ee0adc1d52f4f675d7b33ec)
 
 <!--END_ACTIVITY-->
+
+<!--START_LEADERBOARD-->
+<!--END_LEADERBOARD-->
