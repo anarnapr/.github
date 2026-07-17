@@ -5,16 +5,16 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/2262b12b12dce9472e6d8cc95890da6db3f230f7)
-* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/9001afa623cd1d9b7c6248b482796c1325726b2b)
+* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/2262b12b12dce9472e6d8cc95890da6db3f230f7)
+* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/9001afa623cd1d9b7c6248b482796c1325726b2b)
 * [Another commit sneaks into `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/3d94d7a055ea4b0b89cb8f581b952ff03ac30b7c)
-* [ArjunMal1311 is proposing changes to `socials-instagram`.](https://github.com/anarnapr/socials-instagram/pull/31)
-* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/01ed3ee01ba3d4a03cab7f3e964577e483091bcd)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/f134363fbdad87c01097b247e323e18f4d429b5b)
-* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/89f4847bdceb0eabbd36c29f5b1fdf4905d4d6be)
-* [ArjunMal1311 has been cooking in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/876c5009010fc4fee7521f5b9ce6dba29ac4faf7)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-instagram/pull/31)
+* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/01ed3ee01ba3d4a03cab7f3e964577e483091bcd)
+* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/f134363fbdad87c01097b247e323e18f4d429b5b)
+* [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/89f4847bdceb0eabbd36c29f5b1fdf4905d4d6be)
+* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/876c5009010fc4fee7521f5b9ce6dba29ac4faf7)
 * [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/7acb3a65caecfb67d820a70debd162f3131b917e)
-* [Something's not quite right in `socials-crm`, apparently.](https://github.com/anarnapr/socials-crm/issues/4) — 🟢 open · `help wanted`
+* [A new quest has been added.](https://github.com/anarnapr/socials-crm/issues/4) — 🟢 open · `help wanted`
 
 <!--END_ACTIVITY-->
 
