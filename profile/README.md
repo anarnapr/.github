@@ -5,25 +5,25 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/2262b12b12dce9472e6d8cc95890da6db3f230f7)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/9001afa623cd1d9b7c6248b482796c1325726b2b)
-* [Another commit sneaks into `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/3d94d7a055ea4b0b89cb8f581b952ff03ac30b7c)
-* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-instagram/pull/31)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/01ed3ee01ba3d4a03cab7f3e964577e483091bcd)
-* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/f134363fbdad87c01097b247e323e18f4d429b5b)
-* [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/89f4847bdceb0eabbd36c29f5b1fdf4905d4d6be)
-* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/876c5009010fc4fee7521f5b9ce6dba29ac4faf7)
-* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/7acb3a65caecfb67d820a70debd162f3131b917e)
-* [A new quest has been added.](https://github.com/anarnapr/socials-crm/issues/4) — 🟢 open · `help wanted`
+* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/3ad80e7305fb521fc596928c51121f0f83241f15)
+* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/d31d0525d8943e43c955f2287acd010654fb84c8)
+* [ArjunMal1311 pushed something into `socials-x`. Probably fine.](https://github.com/anarnapr/socials-x/commit/dcb7711d9e25d3e212191255775ed8a24cac1075)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-x/pull/7)
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-instagram/pull/32)
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/ai-gateway/pull/3)
+* [Fresh code just landed in `socials-x`.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
+* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
+* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/4fc889ad38e83798d7e5a4342c46fe212367f979)
+* [ArjunMal1311 found something suspicious in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/issues/2) — 🔴 closed · `enhancement`
 
 <!--END_ACTIVITY-->
 
 <!--START_LEADERBOARD-->
 
-🥇 `socials-instagram` — 26 activity pts
-🥈 `socials-x` — 18 activity pts
+🥇 `socials-instagram` — 24 activity pts
+🥈 `socials-x` — 21 activity pts
 🥉 `socials-crm` — 14 activity pts
-4. `ai-gateway` — 7 activity pts
+4. `ai-gateway` — 12 activity pts
 5. `demo-repository` — 6 activity pts
 
 <!--END_LEADERBOARD-->
