@@ -7,13 +7,13 @@ writing code, building things
 
 * [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/3ad80e7305fb521fc596928c51121f0f83241f15)
 * [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/d31d0525d8943e43c955f2287acd010654fb84c8)
-* [Another commit sneaks into `socials-x`.](https://github.com/anarnapr/socials-x/commit/dcb7711d9e25d3e212191255775ed8a24cac1075)
-* [ArjunMal1311 is proposing changes to `socials-x`.](https://github.com/anarnapr/socials-x/pull/7)
-* [A pull request quietly enters `socials-instagram`.](https://github.com/anarnapr/socials-instagram/pull/32)
-* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/ai-gateway/pull/3)
-* [Fresh code just landed in `socials-x`.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
-* [ArjunMal1311 pushed something into `ai-gateway`. Probably fine.](https://github.com/anarnapr/ai-gateway/commit/4fc889ad38e83798d7e5a4342c46fe212367f979)
+* [ArjunMal1311 pushed something into `socials-x`. Probably fine.](https://github.com/anarnapr/socials-x/commit/dcb7711d9e25d3e212191255775ed8a24cac1075)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-x/pull/7)
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-instagram/pull/32)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/ai-gateway/pull/3)
+* [ArjunMal1311 has been cooking in `socials-x`.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
+* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
+* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/4fc889ad38e83798d7e5a4342c46fe212367f979)
 * [Another mystery appeared in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/issues/2) — 🔴 closed · `enhancement`
 
 <!--END_ACTIVITY-->
