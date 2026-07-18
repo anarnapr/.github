@@ -5,16 +5,16 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [A new quest has been added.](https://github.com/anarnapr/socials-crm/issues/5) — 🟢 open · `enhancement`
-* [A new quest has been added.](https://github.com/anarnapr/ai-gateway/issues/4) — 🟢 open
-* [Someone trusted ArjunMal1311 with `socials-instagram` again.](https://github.com/anarnapr/socials-instagram/commit/3ad80e7305fb521fc596928c51121f0f83241f15)
-* [ArjunMal1311 has been cooking in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/d31d0525d8943e43c955f2287acd010654fb84c8)
+* [prabhu-01 has questions about `socials-crm`.](https://github.com/anarnapr/socials-crm/issues/5) — 🟢 open · `enhancement`
+* [Something's not quite right in `ai-gateway`, apparently.](https://github.com/anarnapr/ai-gateway/issues/4) — 🟢 open
+* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/3ad80e7305fb521fc596928c51121f0f83241f15)
+* [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/d31d0525d8943e43c955f2287acd010654fb84c8)
 * [Someone trusted ArjunMal1311 with `socials-x` again.](https://github.com/anarnapr/socials-x/commit/dcb7711d9e25d3e212191255775ed8a24cac1075)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-x/pull/7)
-* [A pull request quietly enters `socials-instagram`.](https://github.com/anarnapr/socials-instagram/pull/32)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/ai-gateway/pull/3)
-* [Someone trusted ArjunMal1311 with `socials-x` again.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
-* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
+* [A pull request quietly enters `socials-x`.](https://github.com/anarnapr/socials-x/pull/7)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-instagram/pull/32)
+* [A pull request quietly enters `ai-gateway`.](https://github.com/anarnapr/ai-gateway/pull/3)
+* [Another commit sneaks into `socials-x`.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
+* [Another commit sneaks into `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
 
 <!--END_ACTIVITY-->
 
