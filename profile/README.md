@@ -7,14 +7,14 @@ writing code, building things
 
 * [Something's not quite right in `socials-crm`, apparently.](https://github.com/anarnapr/socials-crm/issues/5) — 🟢 open · `enhancement`
 * [ArjunMal1311 found something suspicious in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/issues/4) — 🟢 open
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/3ad80e7305fb521fc596928c51121f0f83241f15)
-* [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/d31d0525d8943e43c955f2287acd010654fb84c8)
-* [Another commit sneaks into `socials-x`.](https://github.com/anarnapr/socials-x/commit/dcb7711d9e25d3e212191255775ed8a24cac1075)
-* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-x/pull/7)
+* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/3ad80e7305fb521fc596928c51121f0f83241f15)
+* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/d31d0525d8943e43c955f2287acd010654fb84c8)
+* [Someone trusted ArjunMal1311 with `socials-x` again.](https://github.com/anarnapr/socials-x/commit/dcb7711d9e25d3e212191255775ed8a24cac1075)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-x/pull/7)
 * [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-instagram/pull/32)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/ai-gateway/pull/3)
-* [ArjunMal1311 has been cooking in `socials-x`.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
-* [ArjunMal1311 has been cooking in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
+* [A pull request quietly enters `ai-gateway`.](https://github.com/anarnapr/ai-gateway/pull/3)
+* [Fresh code just landed in `socials-x`.](https://github.com/anarnapr/socials-x/commit/970a138fd3810fe849c31efc360532db9022e81a)
+* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/5f459b0d3e6e98b1db18b397f9b38271eb7a1c53)
 
 <!--END_ACTIVITY-->
 
