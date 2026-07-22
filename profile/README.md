@@ -5,16 +5,16 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [ArjunMal1311 is proposing changes to `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/16)
-* [ArjunMal1311 is proposing changes to `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/15)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-crm/pull/16)
+* [A pull request quietly enters `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/15)
 * [ArjunMal1311 is proposing changes to `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/14)
-* [A pull request quietly enters `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/13)
-* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-crm/pull/12)
-* [ArjunMal1311 has questions about `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/33) — 🟢 open
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/socials-crm/pull/13)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-crm/pull/12)
+* [Another mystery appeared in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/issues/33) — 🟢 open
 * [ArjunMal1311 pushed something into `ai-gateway`. Probably fine.](https://github.com/anarnapr/ai-gateway/commit/54ccf65438f53ad22677b821851576cbd61a3732)
-* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/2364c7f24c0ddad220f3d47eecf2552bc78e19b1)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/ai-gateway/pull/5)
-* [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/25b24a8034586e3c58d5741442871d706429e830)
+* [ArjunMal1311 pushed something into `ai-gateway`. Probably fine.](https://github.com/anarnapr/ai-gateway/commit/2364c7f24c0ddad220f3d47eecf2552bc78e19b1)
+* [Someone is asking for reviews from ArjunMal1311.](https://github.com/anarnapr/ai-gateway/pull/5)
+* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/25b24a8034586e3c58d5741442871d706429e830)
 
 <!--END_ACTIVITY-->
 
