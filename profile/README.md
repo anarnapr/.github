@@ -5,22 +5,22 @@ writing code, building things
 
 <!--START_ACTIVITY-->
 
-* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-crm/pull/16)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-crm/pull/17)
+* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/9f4c44fd0fc327d9775a895417b024167c72dc41)
+* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-instagram/pull/34)
+* [Another commit sneaks into `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/a9acb9da08de4d37ef279a8364212006772e72ab)
+* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-crm/pull/16)
 * [A pull request quietly enters `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/15)
-* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-crm/pull/14)
-* [ArjunMal1311 thinks this code is ready.](https://github.com/anarnapr/socials-crm/pull/13)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/socials-crm/pull/12)
-* [A new quest has been added.](https://github.com/anarnapr/socials-instagram/issues/33) — 🟢 open
-* [Someone trusted ArjunMal1311 with `ai-gateway` again.](https://github.com/anarnapr/ai-gateway/commit/54ccf65438f53ad22677b821851576cbd61a3732)
-* [Fresh code just landed in `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/2364c7f24c0ddad220f3d47eecf2552bc78e19b1)
-* [Merge button anxiety has begun.](https://github.com/anarnapr/ai-gateway/pull/5)
-* [Another commit sneaks into `ai-gateway`.](https://github.com/anarnapr/ai-gateway/commit/25b24a8034586e3c58d5741442871d706429e830)
+* [ArjunMal1311 is proposing changes to `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/14)
+* [A pull request quietly enters `socials-crm`.](https://github.com/anarnapr/socials-crm/pull/13)
+* [Fresh code just landed in `socials-instagram`.](https://github.com/anarnapr/socials-instagram/commit/0afe1970c3351db79bcafdff6b93795451d2bf18)
+* [ArjunMal1311 pushed something into `socials-instagram`. Probably fine.](https://github.com/anarnapr/socials-instagram/commit/06e70b5d424ca71451a9462034c7d70ec651b21a)
 
 <!--END_ACTIVITY-->
 
 <!--START_LEADERBOARD-->
 
-🥇 `socials-instagram` — 24 activity pts
+🥇 `socials-instagram` — 22 activity pts
 🥈 `socials-x` — 21 activity pts
 🥉 `socials-crm` — 20 activity pts
 4. `ai-gateway` — 17 activity pts
